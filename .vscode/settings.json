@@ -1,0 +1,5 @@
+{
+  "nixEnvSelector.nixShellConfig": "${workspaceRoot}/default.nix",
+  "editor.tabSize": 4,
+  "haskell.formattingProvider": "stylish-haskell"
+}
